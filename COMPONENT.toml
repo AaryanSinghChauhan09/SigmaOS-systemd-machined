@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-machined"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-machined component"
+description = "systemd machined"
 upstream = []
 
 [contract]
